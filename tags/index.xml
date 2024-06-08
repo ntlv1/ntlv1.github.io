@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - AmzCable</title>
+        <link>https://ntlv1.github.io/tags/</link>
+        <description>Tags - Tag - AmzCable</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>ntlv1@outlook.com (ntlv1)</managingEditor>
+            <webMaster>ntlv1@outlook.com (ntlv1)</webMaster><atom:link href="https://ntlv1.github.io/tags/" rel="self" type="application/rss+xml" /></channel>
+</rss>
