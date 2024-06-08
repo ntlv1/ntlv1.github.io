@@ -12,5 +12,13 @@
     <guid>https://ntlv1.github.io/hello/</guid>
     <description><![CDATA[Hello, World! ]]></description>
 </item>
+<item>
+    <title>Test</title>
+    <link>https://ntlv1.github.io/test/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>ntlv1</author>
+    <guid>https://ntlv1.github.io/test/</guid>
+    <description><![CDATA[Just a simple test. ]]></description>
+</item>
 </channel>
 </rss>
